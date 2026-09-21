@@ -1,0 +1,5 @@
+[package
+]
+name = "win11_accelerator"
+version = "1.0.0"
+edition = "2021"
