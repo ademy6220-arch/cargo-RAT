@@ -1,3 +1,12 @@
+💣 DISCLAIMER
+
+Das ist ein echtes Schadwerkzeug.
+Der Autor übernimmt NULL Verantwortung für das, was du damit anstellst.
+Wenn du es gegen Systeme einsetzt, die dir nicht gehören, bist du ein armseliger Skid und gehörst in den Knast.
+Ansonsten: Viel Spaß beim Austesten, Pentesten und Rumspielen.
+
+
+
 **Rust-basierter Remote Access Trojan für Windows 11 – made for chaos, made to pwn.**
 
 **WAS IST DAS?**  
@@ -68,9 +77,3 @@ cargo-RAT/
 └── server/
     └── c2_server.rs   # Command & Control
 
-💣 DISCLAIMER
-
-Das ist ein echtes Schadwerkzeug.
-Der Autor übernimmt NULL Verantwortung für das, was du damit anstellst.
-Wenn du es gegen Systeme einsetzt, die dir nicht gehören, bist du ein armseliger Skid und gehörst in den Knast.
-Ansonsten: Viel Spaß beim Austesten, Pentesten und Rumspielen.
